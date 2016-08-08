@@ -1,5 +1,5 @@
 # JobList
-A list of both worldwide and brazilian websites to find and apply for remote jobs, freelances and regular jobs.
+### A list of worldwide and Brazilian websites to find and apply for remote jobs, freelances and regular jobs.
 
 To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
 
