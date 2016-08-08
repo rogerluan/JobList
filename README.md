@@ -7,6 +7,8 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. https://angel.co/job-collections/remote
 
+1. https://www.upwork.com
+
 1. https://authenticjobs.com/
 
 1. https://gradberry.com/
