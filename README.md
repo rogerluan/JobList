@@ -1,88 +1,143 @@
 # JobList
 A list of both worldwide and brazilian websites to find and apply for remote jobs, freelances and regular jobs.
 
-// This will be updated shortly!
-// If you want to submit more websites to the list, feel free to submit a pull request
+To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
 
 **Worldwide:**
 
-https://angel.co/job-collections/remote
+1. https://angel.co/job-collections/remote
 
-https://authenticjobs.com/
+1. https://authenticjobs.com/
 
-https://gradberry.com/
+1. https://gradberry.com/
 
-https://goremote.io/
+1. https://goremote.io/
 
-https://www.flexjobs.com/
+1. https://www.flexjobs.com/
 
-https://jobs.github.com/
+1. https://jobs.github.com/
 
-http://hnhiring.me/ - filter "remote"
+1. http://hnhiring.me/ - filter "remote"
 
-http://jobmote.com/
+1. http://jobmote.com/
 
-https://jobspresso.co/browsejobs/
+1. https://jobspresso.co/browsejobs/
 
-https://landing.jobs/
+1. https://landing.jobs/
 
-https://app.liquidtalent.com/explore/jobs
+1. https://app.liquidtalent.com/explore/jobs
 
-https://nofluffjobs.com/#criteria=remote
+1. https://nofluffjobs.com/#criteria=remote
 
-https://remote.co/remote-jobs-search/
+1. https://remote.co/remote-jobs-search/
 
-https://remotecoder.io/
+1. https://remotecoder.io/
 
-http://remotejobs.it/
+1. http://remotejobs.it/
 
-https://www.remotelyawesomejobs.com/
+1. https://www.remotelyawesomejobs.com/
 
-https://remoteok.io/
+1. https://remoteok.io/
 
-http://jobs.remotive.io/?category=engineering
+1. http://jobs.remotive.io/?category=engineering
 
-http://careers.stackoverflow.com/
+1. http://careers.stackoverflow.com/ or https://stackoverflow.com/jobs?type=contract&allowsremote=true for remote
 
-https://www.wfh.io/categories/1-remote-software-development/jobs
+1. https://www.wfh.io/categories/1-remote-software-development/jobs
 
-https://weworkremotely.com/categories/2-programming/jobs
+1. https://weworkremotely.com/categories/2-programming/jobs
 
-http://www.workingnomads.co/jobs
+1. http://www.workingnomads.co/jobs
 
-Https://toptal.com/
+1. Https://toptal.com/
 
-Https://zartis.com
+1. Https://zartis.com
 
-http://www.bairesdev.com/
+1. http://www.bairesdev.com/
 
-https://www.workable.com/
+1. https://www.workable.com/
 
-http://www.swift-jobs.com/
+1. http://www.swift-jobs.com/
 
-http://slackatwork.com/
+1. http://slackatwork.com/
 
-**Brazilin:**
+1. http://www.clevertech.biz/
 
-https://trampos.co/
+1. https://crew.co/
 
-http://www.infojobs.com.br/
+1. http://www.fivepackcreative.com/
 
-http://www.comunicageral.com.br/index.php
+1. https://gigster.com/
 
-http://www.prolancer.com.br/
+1. https://gun.io/
 
-http://www.buscafreela.com.br/brasil/BR_pt/
+1. http://happyfuncorp.com
 
-http://www.nearjob.com.br/
+1. https://localsolo.com/
 
-http://www.buscafreela.com.br/brasil/BR_pt/
+1. http://maark.com/index.html
 
-https://www.99freelas.com.br/
+1. https://metova.com
 
-https://www.99jobs.com/
+1. https://www.mobomo.com
 
-http://www.100trabalho.com/
+1. http://mokriya.com
 
-http://www.devmedia.com.br/jobs/
+1. http://nodesk.co/remote-work/
+
+1. http://www.orangecaffeine.com
+
+1. https://ramotion.com
+
+1. http://savvyapps.com
+
+1. http://sourcebits.com
+
+1. http://spies.ws
+
+1. http://tanookilabs.com
+
+1. http://www.teamed.io
+
+1. http://www.tinyhearts.com
+
+1. https://workingnotworking.com
+
+1. http://www.workstate.com
+
+
+**Brazilian:**
+
+1. https://trampos.co/
+
+1. http://www.infojobs.com.br/
+
+1. http://www.comunicageral.com.br/index.php
+
+1. http://www.prolancer.com.br/
+
+1. http://www.buscafreela.com.br/brasil/BR_pt/
+
+1. http://www.nearjob.com.br/
+
+1. http://www.buscafreela.com.br/brasil/BR_pt/
+
+1. https://www.99freelas.com.br/
+
+1. https://www.99jobs.com/
+
+1. http://www.100trabalho.com/
+
+1. http://www.devmedia.com.br/jobs/
+
+**Bounties**
+
+1. https://www.bountysource.com/
+
+1. http://codemill.io
+
+**Other Lists**
+
+- [Awesome Remote Job - A curated list of awesome remote working resources.](https://github.com/lukasz-madon/awesome-remote-job)
+- [Remote-friendly Companies - A list of semi to fully remote-friendly companies in or around tech.](https://github.com/jessicard/remote-jobs)
 
