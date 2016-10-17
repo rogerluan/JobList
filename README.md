@@ -107,6 +107,8 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. http://www.workstate.com
 
+1. https://www.natashatherobot.com/swift-jobs/
+
 
 **Brazilian:**
 
