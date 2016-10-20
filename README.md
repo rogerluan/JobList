@@ -111,6 +111,12 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. https://remotebase.io
 
+1. https://pipelinedaily.com
+
+1. https://www.jrdevjobs.com
+
+1. https://www.honeypot.io
+
 
 **Brazilian:**
 
