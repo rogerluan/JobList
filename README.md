@@ -142,6 +142,10 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. http://www.devmedia.com.br/jobs/
 
+1. http://www.contratado.me/
+
+1. http://olhardigital.uol.com.br/empregos/
+
 **Bounties**
 
 1. https://www.bountysource.com/
