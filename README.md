@@ -23,7 +23,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. http://jobmote.com
 
-1. https://jobspresso.co/browsejobs/
+1. https://jobspresso.co/browsejobs
 
 1. https://landing.jobs
 
@@ -31,7 +31,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. https://nofluffjobs.com/#criteria=remote
 
-1. https://remote.co/remote-jobs-search/
+1. https://remote.co/remote-jobs-search
 
 1. https://remotecoder.io
 
@@ -43,7 +43,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. http://jobs.remotive.io/?category=engineering
 
-1. http://careers.stackoverflow.com/ or https://stackoverflow.com/jobs?type=contract&allowsremote=true for remote
+1. http://careers.stackoverflow.com or https://stackoverflow.com/jobs?type=contract&allowsremote=true for remote
 
 1. https://www.wfh.io/categories/1-remote-software-development/jobs
 
@@ -85,7 +85,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. http://mokriya.com
 
-1. http://nodesk.co/remote-work/
+1. http://nodesk.co/remote-work
 
 1. http://www.orangecaffeine.com
 
@@ -107,7 +107,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. http://www.workstate.com
 
-1. https://www.natashatherobot.com/swift-jobs/
+1. https://www.natashatherobot.com/swift-jobs
 
 1. https://remotebase.io
 
@@ -120,19 +120,17 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 **Brazilian:**
 
-1. https://trampos.co
+1. https://www.trampos.co
 
 1. http://www.infojobs.com.br
 
-1. http://www.comunicageral.com.br/index.php
+1. http://www.comunicageral.com.br
 
 1. http://www.prolancer.com.br
 
-1. http://www.buscafreela.com.br/brasil/BR_pt/
+1. http://www.buscafreela.com.br/brasil/BR_pt
 
 1. http://www.nearjob.com.br
-
-1. http://www.buscafreela.com.br/brasil/BR_pt/
 
 1. https://www.99freelas.com.br
 
@@ -140,7 +138,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. http://www.100trabalho.com
 
-1. http://www.devmedia.com.br/jobs/
+1. http://www.devmedia.com.br/jobs
 
 1. http://www.contratado.me
 
