@@ -115,6 +115,12 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. https://www.honeypot.io
 
+1. https://www.jobserve.com
+
+1. http://www.jobsinit.eu
+
+1. https://jobspotting.com -  filter "working from home" 
+
 
 **Brazilian:**
 
