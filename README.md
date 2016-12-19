@@ -25,15 +25,9 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. https://landing.jobs
 
-1. https://app.liquidtalent.com/explore/jobs
-
 1. https://nofluffjobs.com/#criteria=remote
 
 1. https://remote.co/remote-jobs-search
-
-1. https://remotecoder.io
-
-1. http://remotejobs.it
 
 1. https://www.remotelyawesomejobs.com
 
