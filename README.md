@@ -11,6 +11,8 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. https://authenticjobs.com
 
+1. https://codestunts.com
+
 1. https://goremote.io
 
 1. https://www.flexjobs.com
@@ -156,4 +158,3 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 - [Awesome Remote Job - A curated list of awesome remote working resources.](https://github.com/lukasz-madon/awesome-remote-job)
 - [Remote-friendly Companies - A list of semi to fully remote-friendly companies in or around tech.](https://github.com/jessicard/remote-jobs)
-
