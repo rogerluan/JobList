@@ -121,6 +121,9 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. https://xcodejobs.com
 
+1. https://www.golangprojects.com/golang-remote-jobs.html - Go/Golang jobs, filter on remote
+
+1. https://jobhunt.ai/machinelearning-remote-jobs.html - AI/Machine learning jobs, filter on remote  
 
 **Brazilian:**
 
