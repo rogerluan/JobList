@@ -87,6 +87,8 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 1. http://savvyapps.com
 
+1. https://soshace.com
+
 1. http://sourcebits.com
 
 1. http://spies.ws
