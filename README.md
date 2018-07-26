@@ -1,7 +1,9 @@
 # JobList
 ### A list of worldwide and Brazilian websites to find and apply for remote jobs, freelances and regular jobs.
 
-To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
+### How to Contribute
+
+To contribute, open a PR. If you're not familiar with PRs: click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
 
 **Worldwide:**
 
