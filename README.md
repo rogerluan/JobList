@@ -21,7 +21,7 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. https://jobs.github.com
 
-1. http://hnhiring.me - filter "remote"
+1. http://hnhiring.me - Filter by "remote"
 
 1. http://jobmote.com
 
@@ -119,15 +119,15 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. http://www.jobsinit.eu
 
-1. https://jobspotting.com -  filter "working from home" 
+1. https://jobspotting.com - Filter by "working from home"
 
 1. https://www.workana.com
 
 1. https://xcodejobs.com
 
-1. https://www.golangprojects.com/golang-remote-jobs.html - Go/Golang jobs, filter on remote
+1. https://www.golangprojects.com/golang-remote-jobs.html - Golang jobs, filter by "remote"
 
-1. https://jobhunt.ai/machinelearning-remote-jobs.html - AI/Machine learning jobs, filter on remote  
+1. https://jobhunt.ai/machinelearning-remote-jobs.html - AI/ML jobs, filter by "remote"
 
 **Brazilian:**
 
@@ -157,7 +157,7 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. https://impulso.work/
 
-1. https://hipsters.jobs/ <-- filter for "remoto"
+1. https://hipsters.jobs/ - Filter by "remoto"
 
 **Bounties**
 
