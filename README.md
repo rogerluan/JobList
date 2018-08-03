@@ -155,6 +155,10 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. https://www.workana.com/?locale=pt_BR
 
+1. https://impulso.work/
+
+1. https://hipsters.jobs/ <-- filter for "remoto"
+
 **Bounties**
 
 1. https://www.bountysource.com
