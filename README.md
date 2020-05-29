@@ -15,11 +15,9 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. https://codestunts.com
 
-1. https://goremote.io
-
 1. https://www.flexjobs.com
 
-1. https://jobs.github.com
+1. https://jobs.github.com/positions
 
 1. http://hnhiring.me - Filter by "remote"
 
@@ -29,9 +27,7 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. https://landing.jobs
 
-1. https://nofluffjobs.com/#criteria=remote
-
-1. https://remote.co/remote-jobs-search
+1. https://remote.co/remote-jobs/
 
 1. https://www.remotelyawesomejobs.com
 
@@ -39,41 +35,46 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. http://jobs.remotive.io/?category=engineering
 
-1. http://careers.stackoverflow.com or https://stackoverflow.com/jobs?type=contract&allowsremote=true for remote
+1. https://stackoverflow.com/jobs or https://stackoverflow.com/jobs?type=contract&allowsremote=true for remote
 
-1. https://www.wfh.io/categories/1-remote-software-development/jobs
-
-1. https://weworkremotely.com/categories/2-programming/jobs
+1. https://weworkremotely.com
 
 1. http://www.workingnomads.co/jobs
 
-1. https://www.toptal.com/#get-effective-engineers-today
+1. http://nodesk.co/remote-work
 
-1. https://zartis.com
+1. https://jobs.workable.com
 
-1. http://www.bairesdev.com
+1. https://workingnotworking.com
 
-1. https://www.workable.com
+1. https://www.jrdevjobs.com
 
-1. http://www.swift-jobs.com
+1. https://www.honeypot.io
 
-1. http://slackatwork.com
+1. https://www.workana.com
 
-1. http://www.clevertech.biz
+1. https://xcodejobs.com
 
-1. https://crew.co
+1. https://www.golangprojects.com/golang-remote-jobs.html - Golang jobs
+
+1. https://jobhunt.ai - AI/ML jobs
+
+
+**Agencies**
 
 1. http://www.fivepackcreative.com
 
-1. https://gigster.com
+1. https://www.toptal.com
+
+1. http://www.bairesdev.com
 
 1. https://gun.io
 
-1. http://happyfuncorp.com
+1. https://happyfuncorp.com
 
 1. https://localsolo.com
 
-1. http://maark.com/index.html
+1. http://maark.com/
 
 1. https://metova.com
 
@@ -81,53 +82,15 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. http://mokriya.com
 
-1. http://nodesk.co/remote-work
-
-1. http://www.orangecaffeine.com
-
 1. https://ramotion.com
 
 1. http://savvyapps.com
 
 1. https://soshace.com
 
-1. http://sourcebits.com
-
-1. http://spies.ws
-
 1. http://tanookilabs.com
 
 1. http://www.teamed.io
-
-1. http://www.tinyhearts.com
-
-1. https://workingnotworking.com
-
-1. http://www.workstate.com
-
-1. https://www.natashatherobot.com/swift-jobs
-
-1. https://remotebase.io
-
-1. https://pipelinedaily.com
-
-1. https://www.jrdevjobs.com
-
-1. https://www.honeypot.io
-
-1. https://www.jobserve.com
-
-1. http://www.jobsinit.eu
-
-1. https://jobspotting.com - Filter by "working from home"
-
-1. https://www.workana.com
-
-1. https://xcodejobs.com
-
-1. https://www.golangprojects.com/golang-remote-jobs.html - Golang jobs, filter by "remote"
-
-1. https://jobhunt.ai/machinelearning-remote-jobs.html - AI/ML jobs, filter by "remote"
 
 **Brazilian:**
 
@@ -139,19 +102,13 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. http://www.prolancer.com.br
 
-1. http://www.buscafreela.com.br/brasil/BR_pt
-
-1. http://www.nearjob.com.br
-
 1. https://www.99freelas.com.br
 
 1. https://www.99jobs.com
 
-1. http://www.100trabalho.com
-
 1. http://www.devmedia.com.br/jobs
 
-1. http://www.contratado.me
+1. https://www.revelo.com.br
 
 1. https://www.workana.com/?locale=pt_BR
 
