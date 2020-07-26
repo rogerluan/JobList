@@ -95,7 +95,7 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. [http://www.teamed.io/](http://www.teamed.io/?ref=rogeroba)
 
-** 🇧🇷 Brazilian: **
+**🇧🇷 Brazilian**
 
 1. [https://www.trampos.co/](https://www.trampos.co/?ref=rogeroba)
 
