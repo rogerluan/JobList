@@ -7,126 +7,127 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 **Worldwide:**
 
-1. https://angel.co/job-collections/remote
+1. [https://angel.co/job-collections/remote](https://angel.co/job-collections/remote?ref=rogeroba)
 
-1. https://www.upwork.com
+1. [https://www.upwork.com/](https://www.upwork.com/?ref=rogeroba)
 
-1. https://authenticjobs.com
+1. [https://authenticjobs.com/](https://authenticjobs.com/?ref=rogeroba)
 
-1. https://codestunts.com
+1. [https://codestunts.com/](https://codestunts.com/?ref=rogeroba)
 
-1. https://www.flexjobs.com
+1. [https://www.flexjobs.com/](https://www.flexjobs.com/?ref=rogeroba)
 
-1. https://jobs.github.com/positions
+1. [https://jobs.github.com/positions](https://jobs.github.com/positions?ref=rogeroba)
 
-1. http://hnhiring.me - Filter by "remote"
+1. [http://hnhiring.me/](http://hnhiring.me/?ref=rogeroba) - Filter by "remote"
 
-1. http://jobmote.com
+1. [http://jobmote.com/](http://jobmote.com/?ref=rogeroba)
 
-1. https://jobspresso.co/browsejobs
+1. [https://jobspresso.co/browsejobs](https://jobspresso.co/browsejobs?ref=rogeroba)
 
-1. https://landing.jobs
+1. [https://landing.jobs/](https://landing.jobs/?ref=rogeroba)
 
-1. https://remote.co/remote-jobs/
+1. [https://remote.co/remote-jobs](https://remote.co/remote-jobs?ref=rogeroba)
 
-1. https://www.remotelyawesomejobs.com
+1. [https://www.remotelyawesomejobs.com/](https://www.remotelyawesomejobs.com/?ref=rogeroba)
 
-1. https://remoteok.io
+1. [https://remoteok.io/](https://remoteok.io/?ref=rogeroba)
 
-1. http://jobs.remotive.io/?category=engineering
+1. [http://jobs.remotive.io/?category=engineering](http://jobs.remotive.io/?category=engineering?ref=rogeroba)
 
-1. https://stackoverflow.com/jobs or https://stackoverflow.com/jobs?type=contract&allowsremote=true for remote
+1. [https://stackoverflow.com/jobs](https://stackoverflow.com/jobs?ref=rogeroba) or [https://stackoverflow.com/jobs?type=contract&allowsremote=true](https://stackoverflow.com/jobs?type=contract&allowsremote=true?ref=rogeroba) for remote
 
-1. https://weworkremotely.com
+1. [https://weworkremotely.com/](https://weworkremotely.com/?ref=rogeroba)
 
-1. http://www.workingnomads.co/jobs
+1. [http://www.workingnomads.co/jobs](http://www.workingnomads.co/jobs?ref=rogeroba)
 
-1. http://nodesk.co/remote-work
+1. [http://nodesk.co/remote-work](http://nodesk.co/remote-work?ref=rogeroba)
 
-1. https://jobs.workable.com
+1. [https://jobs.workable.com/](https://jobs.workable.com/?ref=rogeroba)
 
-1. https://workingnotworking.com
+1. [https://workingnotworking.com/](https://workingnotworking.com/?ref=rogeroba)
 
-1. https://www.jrdevjobs.com
+1. [https://www.jrdevjobs.com/](https://www.jrdevjobs.com/?ref=rogeroba)
 
-1. https://www.honeypot.io
+1. [https://www.honeypot.io/](https://www.honeypot.io/?ref=rogeroba)
 
-1. https://www.workana.com
+1. [https://www.workana.com/](https://www.workana.com/?ref=rogeroba)
 
-1. https://xcodejobs.com
+1. [https://xcodejobs.com/](https://xcodejobs.com/?ref=rogeroba)
 
-1. https://www.golangprojects.com/golang-remote-jobs.html - Golang jobs
+1. [https://www.golangprojects.com/golang-remote-jobs.html](https://www.golangprojects.com/golang-remote-jobs.html?ref=rogeroba)
 
-1. https://jobhunt.ai - AI/ML jobs
+1. [https://jobhunt.ai/](https://jobhunt.ai/?ref=rogeroba) - AI/ML jobs
 
-1. https://iosdevjobs.com
+1. [https://iosdevjobs.com/](https://iosdevjobs.com/?ref=rogeroba)
 
 
 **Agencies**
 
-1. http://www.fivepackcreative.com
+1. [http://www.fivepackcreative.com/](http://www.fivepackcreative.com/?ref=rogeroba)
 
-1. https://www.toptal.com
+1. [https://www.toptal.com/](https://www.toptal.com/?ref=rogeroba)
 
-1. http://www.bairesdev.com
+1. [http://www.bairesdev.com/](http://www.bairesdev.com/?ref=rogeroba)
 
-1. https://gun.io
+1. [https://gun.io/](https://gun.io/?ref=rogeroba)
 
-1. https://happyfuncorp.com
+1. [https://happyfuncorp.com/](https://happyfuncorp.com/?ref=rogeroba)
 
-1. https://localsolo.com
+1. [https://localsolo.com/](https://localsolo.com/?ref=rogeroba)
 
-1. http://maark.com/
+1. [http://maark.com/](http://maark.com/?ref=rogeroba)
 
-1. https://metova.com
+1. [https://metova.com/](https://metova.com/?ref=rogeroba)
 
-1. https://www.mobomo.com
+1. [https://www.mobomo.com/](https://www.mobomo.com/?ref=rogeroba)
 
-1. http://mokriya.com
+1. [http://mokriya.com/](http://mokriya.com/?ref=rogeroba)
 
-1. https://ramotion.com
+1. [https://ramotion.com/](https://ramotion.com/?ref=rogeroba)
 
-1. http://savvyapps.com
+1. [http://savvyapps.com/](http://savvyapps.com/?ref=rogeroba)
 
-1. https://soshace.com
+1. [https://soshace.com/](https://soshace.com/?ref=rogeroba)
 
-1. http://tanookilabs.com
+1. [http://tanookilabs.com/](http://tanookilabs.com/?ref=rogeroba)
 
-1. http://www.teamed.io
+1. [http://www.teamed.io/](http://www.teamed.io/?ref=rogeroba)
 
-**Brazilian:**
+** 🇧🇷 Brazilian: **
 
-1. https://www.trampos.co
+1. [https://www.trampos.co/](https://www.trampos.co/?ref=rogeroba)
 
-1. http://www.infojobs.com.br
+1. [http://www.infojobs.com.br/](http://www.infojobs.com.br/?ref=rogeroba)
 
-1. http://www.comunicageral.com.br
+1. [http://www.comunicageral.com.br/](http://www.comunicageral.com.br/?ref=rogeroba)
 
-1. http://www.prolancer.com.br
+1. [http://www.prolancer.com.br/](http://www.prolancer.com.br/?ref=rogeroba)
 
-1. https://www.99freelas.com.br
+1. [https://www.99freelas.com.br/](https://www.99freelas.com.br/?ref=rogeroba)
 
-1. https://www.99jobs.com
+1. [https://www.99jobs.com/](https://www.99jobs.com/?ref=rogeroba)
 
-1. http://www.devmedia.com.br/jobs
+1. [http://www.devmedia.com.br/jobs](http://www.devmedia.com.br/jobs?ref=rogeroba)
 
-1. https://www.revelo.com.br
+1. [https://www.revelo.com.br/](https://www.revelo.com.br/?ref=rogeroba)
 
-1. https://www.workana.com/?locale=pt_BR
+1. [https://www.workana.com/](https://www.workana.com/?ref=rogeroba)/?locale=pt_BR
 
-1. https://impulso.work/
+1. [https://impulso.work/](https://impulso.work/?ref=rogeroba)
 
-1. https://hipsters.jobs/ - Filter by "remoto"
+1. [https://hipsters.jobs/](https://hipsters.jobs/?ref=rogeroba) - Filter by "remoto"
 
-1. http://vibbra.com.br
+1. [http://vibbra.com.br/](http://vibbra.com.br/?ref=rogeroba)
 
 **Bounties**
 
-1. https://www.bountysource.com
+1. [https://www.bountysource.com/](https://www.bountysource.com/?ref=rogeroba)
 
-1. http://codemill.io
+1. [http://codemill.io/](http://codemill.io/?ref=rogeroba)
 
 **Other Lists**
 
 - [Awesome Remote Job - A curated list of awesome remote working resources.](https://github.com/lukasz-madon/awesome-remote-job)
 - [Remote-friendly Companies - A list of semi to fully remote-friendly companies in or around tech.](https://github.com/jessicard/remote-jobs)
+
