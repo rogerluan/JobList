@@ -1,11 +1,16 @@
 # JobList
-### A list of worldwide and Brazilian websites to find and apply for remote jobs, freelances and regular jobs.
+
+### A list of websites to find and apply for remote jobs, freelances and also on-site jobs.
+
+This list is mostly curated for tech jobs.
+They're not in any particular order.
+
 
 ### How to Contribute
 
 To contribute, open a PR. If you're not familiar with PRs: click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
 
-**Worldwide:**
+**Global:**
 
 1. [https://angel.co/job-collections/remote](https://angel.co/job-collections/remote?ref=rogeroba)
 
