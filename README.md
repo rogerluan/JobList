@@ -106,8 +106,6 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. [http://www.infojobs.com.br/](http://www.infojobs.com.br/?ref=rogeroba)
 
-1. [http://www.comunicageral.com.br/](http://www.comunicageral.com.br/?ref=rogeroba)
-
 1. [http://www.prolancer.com.br/](http://www.prolancer.com.br/?ref=rogeroba)
 
 1. [https://www.99freelas.com.br/](https://www.99freelas.com.br/?ref=rogeroba)
