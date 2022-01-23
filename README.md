@@ -60,6 +60,8 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. [https://xcodejobs.com/](https://xcodejobs.com/?ref=rogeroba)
 
+1. [https://ClojureJobboard.com](https://ClojureJobboard.com/?ref=rogeroba) - Clojure jobs, also got a remote section
+
 1. [https://www.golangprojects.com/golang-remote-jobs.html](https://www.golangprojects.com/golang-remote-jobs.html?ref=rogeroba)
 
 1. [https://jobhunt.ai/](https://jobhunt.ai/?ref=rogeroba) - AI/ML jobs
