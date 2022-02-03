@@ -18,8 +18,6 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. [https://authenticjobs.com/](https://authenticjobs.com/?ref=rogeroba)
 
-1. [https://himalayas.app](https://himalayas.app?ref=rogeroba)
-
 1. [https://codestunts.com/](https://codestunts.com/?ref=rogeroba)
 
 1. [https://www.flexjobs.com/](https://www.flexjobs.com/?ref=rogeroba)
@@ -71,6 +69,8 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 1. [https://iosdevjobs.com/](https://iosdevjobs.com/?ref=rogeroba)
 
 1. [https://remoterocket.io/](https://remoterocket.io/?ref=rogeroba)
+
+1. [https://himalayas.app](https://himalayas.app?ref=rogeroba)
 
 **Agencies**
 
