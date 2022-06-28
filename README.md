@@ -40,7 +40,7 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. [http://jobs.remotive.io/?category=engineering](http://jobs.remotive.io/?category=engineering?ref=rogeroba)
 
-1. [https://stackoverflow.com/jobs](https://stackoverflow.com/jobs?ref=rogeroba) or [https://stackoverflow.com/jobs?type=contract&allowsremote=true](https://stackoverflow.com/jobs?type=contract&allowsremote=true?ref=rogeroba) for remote
+1. [https://hotfixo.com](https://hotfixo.com) or [https://hotfixo.com/remote-jobs](https://hotfixo.com/remote-jobs) for remote
 
 1. [https://weworkremotely.com/](https://weworkremotely.com/?ref=rogeroba)
 
