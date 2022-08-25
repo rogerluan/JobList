@@ -72,6 +72,8 @@ To contribute, open a PR. If you're not familiar with PRs: click README.md and t
 
 1. [https://himalayas.app](https://himalayas.app?ref=rogeroba)
 
+1. [https://www.onstrider.com/job-seekers](https://www.onstrider.com/job-seekers?ref=rogeroba)
+
 **Agencies**
 
 1. [http://www.fivepackcreative.com/](http://www.fivepackcreative.com/?ref=rogeroba)
