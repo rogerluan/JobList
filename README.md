@@ -1,5 +1,7 @@
 # JobList
 
+<img src="https://views.whatilearened.today/views/github/rogerluan/joblist.svg"></br>
+
 ## A list of websites to find and apply for remote jobs or freelancing gigs
 
 This list is mostly curated for tech jobs.
