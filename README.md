@@ -74,3 +74,13 @@ To contribute, open a PR. If you're not familiar with PRs: click `README.md` and
 
 - [Awesome Remote Job - A curated list of awesome remote working resources.](https://www.github.com/lukasz-madon/awesome-remote-job)
 - [Remote-friendly Companies - A list of semi to fully remote-friendly companies in or around tech.](https://www.github.com/jessicard/remote-jobs)
+
+# Explore my other tools
+
+<img width="400" alt="Statused Social Banner" src="https://statused.com/assets/social-banner.png">
+
+Forget about 'When did release v2.1.3 go live again?' and 'Is the app ready to be tested yet?'
+
+Statused monitors App Store Connect and send you notifications directly on Slack.
+
+Learn more: [statused.com](https://statused.com?ref=joblist)
