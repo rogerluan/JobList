@@ -33,6 +33,7 @@ This list is mostly curated for tech jobs.
 1. [https://www.upwork.com/](https://www.upwork.com/?ref=rogeroba)
 1. [https://www.workana.com/](https://www.workana.com/?ref=rogeroba)
 1. [https://www.workingnomads.co/jobs](https://www.workingnomads.co/jobs?ref=rogeroba)
+1. [https://www.okjob.io/](https://www.okjob.io/?ref=rogeroba)
 
 #### Agencies
 
