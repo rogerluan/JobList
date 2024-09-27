@@ -1,16 +1,29 @@
-name: Comment on README edits
+name: Static Code Review
 
 on:
-  pull_request_target:
-    types: [opened, edited]
+  pull_request:
+    types: [opened, synchronize, reopened]
 
 jobs:
   comment:
-    if: contains(github.event.pull_request.title, 'README.md')
     runs-on: ubuntu-latest
     steps:
-    - name: Post comment if README.md is edited
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Check if README.md was modified
+      id: check_readme
       run: |
-        if grep -q "README.md" <<< "$(git diff --name-only HEAD~1 HEAD)"; then
-          gh pr comment ${{ github.event.pull_request.number }} --body "Please edit the [`data_sources.json`](src/data_sources.json) file instead of the `README.md`, as the README is auto-generated. Thank you :pray:"
+        if git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep -q "README.md"; then
+          echo "readme_modified=true" >> $GITHUB_OUTPUT
+        else
+          echo "readme_modified=false" >> $GITHUB_OUTPUT
         fi
+
+    - name: Post comment if README.md is edited
+      if: steps.check_readme.outputs.readme_modified == 'true'
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        gh pr comment ${{ github.event.pull_request.number }} --body "Please edit the [`data_sources.json`](src/data_sources.json) file instead of the `README.md`, as the README is auto-generated. Thank you :pray:"
