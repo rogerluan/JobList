@@ -10,6 +10,7 @@ This list is mostly curated for tech jobs.
 
 Remote jobs from all over the world
 
+1. Just testing the CI workflow
 1. AI Jobs: [https://theaijobboard.com/](https://theaijobboard.com/?ref=rogeroba) - Top 1% of AI companies
 1. AuthenticJobs: [https://www.authenticjobs.com/](https://www.authenticjobs.com/?ref=rogeroba)
 1. ClojureJobBoard: [https://www.clojurejobboard.com](https://www.clojurejobboard.com?ref=rogeroba) - Clojure jobs, also got a remote section
