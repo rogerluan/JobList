@@ -26,4 +26,4 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        gh pr comment ${{ github.event.pull_request.number }} --body "Please edit the [`data_sources.json`](src/data_sources.json) file instead of the `README.md`, as the README is auto-generated. Thank you :pray:"
+        gh pr comment ${{ github.event.pull_request.number }} --body "Please edit the [\`data_sources.json\`](src/data_sources.json) file instead of the \`README.md\`, as the README is auto-generated. Thank you 🙏"
