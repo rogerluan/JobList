@@ -120,6 +120,7 @@
     {
       "name": "LandingJobs",
       "url": "https://landing.jobs/",
+      "skip_url_check": true,
       "categories": [
         "global"
       ]
