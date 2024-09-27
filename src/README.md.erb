@@ -1,0 +1,40 @@
+# JobList
+
+<img src="https://views.whatilearened.today/views/github/rogerluan/joblist.svg" alt="GitHub repository view count"></br>
+
+## A list of websites to find and apply for remote jobs or freelancing gigs
+
+This list is mostly curated for tech jobs.
+<% categories.each do |category| %>
+### <%= category['name'].capitalize %>
+
+<%= category['description'] %>
+
+<% boards.select { |board| board['categories'].include?(category['name']) }.each do |board| -%>
+1. [<%= board['url'] %>](<%= board['url_with_ref'] %>)<%= " - #{board['short_description']}" if board['short_description'] %>
+<% end -%>
+<% end -%>
+
+### Job Hunting & Application Tools
+<% tools.each do |tool| %>
+- [<%= tool['url'] %>](<%= tool['url_with_ref'] %>) - <%= tool['description'] -%>
+<% end %>
+
+### Other Lists
+<% other_lists.each do |list| %>
+- [<%= list['name'] %>](<%= list['url_with_ref'] %>) - <%= list['description'] -%>
+<% end %>
+
+## How to Contribute
+
+To contribute, open a PR. If you're not familiar with PRs: click `README.md` and then the pencil icon. Make your changes and click the "Propose file change" button to submit a Pull Request.
+
+## Explore my other tools
+
+<img width="400" alt="Statused Social Banner" src="https://statused.com/assets/social-banner.png">
+
+Forget about 'When did release v2.1.3 go live again?' and 'Is the app ready to be tested yet?'
+
+Statused monitors App Store Connect and sends you notifications directly on Slack.
+
+Learn more: [statused.com](https://statused.com?ref=joblist)
