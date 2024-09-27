@@ -1,0 +1,32 @@
+name: Generate README
+
+on:
+  push:
+    paths:
+      - 'data_sources.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+
+    - name: Install dependencies
+      run: bundle install
+
+    - name: Generate README
+      run: bundle exec ruby src/generate_readme.rb
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update `README.md` from `data_sources.json`."
+        git push
+      if: |
+        git diff --quiet --exit-code || exit 1
