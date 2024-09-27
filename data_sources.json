@@ -10,6 +10,7 @@
     {
       "name": "Wellfound",
       "url": "https://wellfound.com/jobs",
+      "skip_url_check": true,
       "short_description": "Job board focused on startups of all sizes",
       "categories": [
         "global"
@@ -53,6 +54,7 @@
     {
       "name": "WorkingNotWorking",
       "url": "https://workingnotworking.com/",
+      "skip_url_check": true,
       "categories": [
         "global"
       ]
@@ -75,6 +77,7 @@
     {
       "name": "FlexJobs",
       "url": "https://www.flexjobs.com/",
+      "skip_url_check": true,
       "categories": [
         "global"
       ]
@@ -96,14 +99,6 @@
     {
       "name": "iOSDevJobs",
       "url": "https://www.iosdevjobs.com/",
-      "categories": [
-        "global"
-      ]
-    },
-    {
-      "name": "JobHunt.AI",
-      "url": "https://www.jobhunt.ai/",
-      "short_description": "AI/ML jobs",
       "categories": [
         "global"
       ]
@@ -131,7 +126,7 @@
     },
     {
       "name": "NoDesk",
-      "url": "https://www.nodesk.co/remote-work",
+      "url": "https://nodesk.co/remote-work/",
       "categories": [
         "global"
       ]
@@ -145,7 +140,7 @@
     },
     {
       "name": "Remote.co",
-      "url": "https://www.remote.co",
+      "url": "https://remote.co",
       "categories": [
         "global"
       ]
@@ -160,6 +155,7 @@
     {
       "name": "Upwork",
       "url": "https://www.upwork.com/",
+      "skip_url_check": true,
       "categories": [
         "global"
       ]
@@ -210,6 +206,7 @@
     {
       "name": "Impulso",
       "url": "https://www.impulso.work/",
+      "skip_url_check": true,
       "categories": [
         "brazilian"
       ]
@@ -217,6 +214,7 @@
     {
       "name": "InfoJobs",
       "url": "https://www.infojobs.com.br/",
+      "skip_url_check": true,
       "categories": [
         "brazilian"
       ]
@@ -273,13 +271,6 @@
     {
       "name": "HappyFunCorp",
       "url": "https://www.happyfuncorp.com/",
-      "categories": [
-        "agency"
-      ]
-    },
-    {
-      "name": "Maark",
-      "url": "https://www.maark.com/",
       "categories": [
         "agency"
       ]
