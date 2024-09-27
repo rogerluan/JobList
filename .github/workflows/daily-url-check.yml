@@ -1,0 +1,42 @@
+name: Daily URL Check
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  check-urls:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+
+    - name: Install dependencies
+      run: bundle install
+
+    - name: Check URLs
+      id: url_check
+      run: bundle exec ruby src/check_url_status.rb
+      continue-on-error: true
+
+    - name: Create Pull Request
+      if: steps.url_check.outcome == 'failure'
+      uses: peter-evans/create-pull-request@v5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: Remove broken URLs
+        title: Remove broken URLs
+        body: |
+          ## Description
+
+          🤖 This is an automated PR opened by a bot.
+
+          This PR removes broken URLs from `data_sources.json`.
+
+          The daily URL check found one or more broken links that have been automatically removed.
+        branch: bot/remove-broken-urls
+        delete-branch: true
