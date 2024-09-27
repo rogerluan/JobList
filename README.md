@@ -19,16 +19,15 @@ Remote jobs from all over the world
 1. HNHiring: [http://hnhiring.me/](http://hnhiring.me/?ref=rogeroba)
 1. Honeypot: [https://www.honeypot.io/](https://www.honeypot.io/?ref=rogeroba)
 1. iOSDevJobs: [https://www.iosdevjobs.com/](https://www.iosdevjobs.com/?ref=rogeroba)
-1. JobHunt.AI: [https://www.jobhunt.ai/](https://www.jobhunt.ai/?ref=rogeroba) - AI/ML jobs
 1. JobMote: [https://beta.jobmote.com/](https://beta.jobmote.com/?ref=rogeroba)
 1. Jobspresso: [https://www.jobspresso.co/remote-work/](https://www.jobspresso.co/remote-work/?ref=rogeroba)
 1. JrDevJobs: [https://www.jrdevjobs.com/](https://www.jrdevjobs.com/?ref=rogeroba)
 1. JustRemote: [https://justremote.co/remote-jobs](https://justremote.co/remote-jobs?ref=rogeroba) - Fully and partially remote
-1. LandingJobs: [https://www.landing.jobs/](https://www.landing.jobs/?ref=rogeroba)
-1. NoDesk: [https://www.nodesk.co/remote-work](https://www.nodesk.co/remote-work?ref=rogeroba)
+1. LandingJobs: [https://landing.jobs/](https://landing.jobs/?ref=rogeroba)
+1. NoDesk: [https://nodesk.co/remote-work/](https://nodesk.co/remote-work/?ref=rogeroba)
 1. PowerToFly: [https://powertofly.com/](https://powertofly.com/?ref=rogeroba) - Land a job at a company committed to diversity & inclusion
 1. Remote Woman: [https://remotewoman.com](https://remotewoman.com?ref=rogeroba) - Women have the opportunity to work from home
-1. Remote.co: [https://www.remote.co](https://www.remote.co?ref=rogeroba)
+1. Remote.co: [https://remote.co](https://remote.co?ref=rogeroba)
 1. remote4me: [https://remote4me.com/](https://remote4me.com/?ref=rogeroba) - An aggregator for remote jobs in tech and non-tech
 1. RemoteOK: [https://www.remoteok.io/](https://www.remoteok.io/?ref=rogeroba)
 1. Remotive: [https://remotive.com](https://remotive.com?ref=rogeroba)
@@ -50,7 +49,6 @@ Agencies that hire remote workers
 1. FivePackCreative: [https://www.fivepackcreative.com/](https://www.fivepackcreative.com/?ref=rogeroba)
 1. Gun.io: [https://www.gun.io/](https://www.gun.io/?ref=rogeroba)
 1. HappyFunCorp: [https://www.happyfuncorp.com/](https://www.happyfuncorp.com/?ref=rogeroba)
-1. Maark: [https://www.maark.com/](https://www.maark.com/?ref=rogeroba)
 1. Metova: [https://www.metova.com/](https://www.metova.com/?ref=rogeroba)
 1. Mobomo: [https://www.mobomo.com/](https://www.mobomo.com/?ref=rogeroba)
 1. Ramotion: [https://www.ramotion.com/](https://www.ramotion.com/?ref=rogeroba)
