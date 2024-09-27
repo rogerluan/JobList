@@ -21,12 +21,15 @@ jobs:
     - name: Generate README
       run: bundle exec ruby src/generate_readme.rb
 
-    - name: Commit changes
+    - name: Check for changes
+      id: git-check
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add README.md
-        git commit -m "Update `README.md` from `data_sources.json`."
-        git push
-      if: |
-        git diff --quiet --exit-code || exit 1
+        git diff --exit-code README.md || echo "changes=true" >> $GITHUB_OUTPUT
+
+    - name: Commit changes
+      if: steps.git-check.outputs.changes == 'true'
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: 'README.md'
+        message: "🤖 Update `README.md` from `data_sources.json`."
+        default_author: github_actions
