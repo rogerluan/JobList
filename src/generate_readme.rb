@@ -8,7 +8,7 @@ json_data = File.read("data_sources.json")
 data = JSON.parse(json_data)
 
 # Sort each list alphabetically by the name of the item
-["boards", "tools", "other_lists"].each do |category|
+%w[boards tools other_lists].each do |category|
   data[category].sort_by! { |item| item["name"].downcase }
 end
 
