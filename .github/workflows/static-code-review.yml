@@ -1,0 +1,16 @@
+name: Comment on README edits
+
+on:
+  pull_request_target:
+    types: [opened, edited]
+
+jobs:
+  comment:
+    if: contains(github.event.pull_request.title, 'README.md')
+    runs-on: ubuntu-latest
+    steps:
+    - name: Post comment if README.md is edited
+      run: |
+        if grep -q "README.md" <<< "$(git diff --name-only HEAD~1 HEAD)"; then
+          gh pr comment ${{ github.event.pull_request.number }} --body "Please edit the [`data_sources.json`](src/data_sources.json) file instead of the `README.md`, as the README is auto-generated. Thank you :pray:"
+        fi
