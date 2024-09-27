@@ -1,444 +1,444 @@
 {
-    "boards": [
-        {
-            "name": "HNHiring",
-            "url": "http://hnhiring.me/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Wellfound",
-            "url": "https://wellfound.com/jobs",
-            "short_description": "Job board focused on startups of all sizes",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "JobMote",
-            "url": "https://beta.jobmote.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Himalayas",
-            "url": "https://himalayas.app",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Remotive",
-            "url": "https://remotive.com",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Workable",
-            "url": "https://jobs.workable.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "WeWorkRemotely",
-            "url": "https://weworkremotely.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "WorkingNotWorking",
-            "url": "https://workingnotworking.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "AuthenticJobs",
-            "url": "https://www.authenticjobs.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "ClojureJobBoard",
-            "url": "https://www.clojurejobboard.com",
-            "short_description": "Clojure jobs, also got a remote section",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "FlexJobs",
-            "url": "https://www.flexjobs.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "GolangProjects",
-            "url": "https://www.golangprojects.com/golang-remote-jobs.html",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Honeypot",
-            "url": "https://www.honeypot.io/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "iOSDevJobs",
-            "url": "https://www.iosdevjobs.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "JobHunt.AI",
-            "url": "https://www.jobhunt.ai/",
-            "short_description": "AI/ML jobs",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Jobspresso",
-            "url": "https://www.jobspresso.co/remote-work/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "JrDevJobs",
-            "url": "https://www.jrdevjobs.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "LandingJobs",
-            "url": "https://www.landing.jobs/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "NoDesk",
-            "url": "https://www.nodesk.co/remote-work",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Strider",
-            "url": "https://www.onstrider.com/job-seekers",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Remote.co",
-            "url": "https://www.remote.co",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "RemoteOK",
-            "url": "https://www.remoteok.io/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Upwork",
-            "url": "https://www.upwork.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Workana",
-            "url": "https://www.workana.com/",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "WorkingNomads",
-            "url": "https://www.workingnomads.co/jobs",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Hipsters.jobs",
-            "url": "https://hipsters.jobs/",
-            "short_description": "Filter by 'remoto'",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "99Freelas",
-            "url": "https://www.99freelas.com.br/",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "99Jobs",
-            "url": "https://www.99jobs.com/",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "DevMedia Jobs",
-            "url": "https://www.devmedia.com.br/jobs",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "Impulso",
-            "url": "https://www.impulso.work/",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "InfoJobs",
-            "url": "https://www.infojobs.com.br/",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "Revelo",
-            "url": "https://www.revelo.com.br/",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "Trampos",
-            "url": "https://www.trampos.co/",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "Vibbra",
-            "url": "https://www.vibbra.com.br/",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "Workana Brazil",
-            "url": "https://www.workana.com/?locale=pt_br",
-            "categories": [
-                "brazilian"
-            ]
-        },
-        {
-            "name": "BairesDev",
-            "url": "https://www.bairesdev.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "FivePackCreative",
-            "url": "https://www.fivepackcreative.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "Gun.io",
-            "url": "https://www.gun.io/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "HappyFunCorp",
-            "url": "https://www.happyfuncorp.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "Maark",
-            "url": "https://www.maark.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "Metova",
-            "url": "https://www.metova.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "Mobomo",
-            "url": "https://www.mobomo.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "Ramotion",
-            "url": "https://www.ramotion.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "Soshace",
-            "url": "https://www.soshace.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "TanookiLabs",
-            "url": "https://www.tanookilabs.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "Teamed.io",
-            "url": "https://www.teamed.io/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "Toptal",
-            "url": "https://www.toptal.com/",
-            "categories": [
-                "agency"
-            ]
-        },
-        {
-            "name": "BountySource",
-            "url": "https://www.bountysource.com/",
-            "categories": [
-                "bounties"
-            ]
-        },
-        {
-            "name": "Remote Woman",
-            "url": "https://remotewoman.com",
-            "short_description": "Women have the opportunity to work from home",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "JustRemote",
-            "url": "https://justremote.co/remote-jobs",
-            "short_description": "Fully and partially remote",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "PowerToFly",
-            "url": "https://powertofly.com/",
-            "short_description": "Land a job at a company committed to diversity & inclusion",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "AI Jobs",
-            "url": "https://theaijobboard.com/",
-            "short_description": "Top 1% of AI companies",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "remote4me",
-            "url": "https://remote4me.com/",
-            "short_description": "An aggregator for remote jobs in tech and non-tech",
-            "categories": [
-                "global"
-            ]
-        },
-        {
-            "name": "Web3 Jobs",
-            "url": "https://web3.career/remote-jobs",
-            "short_description": "Remote Web3 Jobs",
-            "categories": [
-                "global"
-            ]
-        }
-    ],
-    "tools": [
-        {
-            "name": "AutoApply.Jobs",
-            "url": "https://autoapply.jobs/",
-            "description": "Auto-apply to jobs without any human effort"
-        },
-        {
-            "name": "FinalScout",
-            "url": "https://finalscout.com/",
-            "description": "Transform your LinkedIn connections into email lists with this ChatGPT-Powered Email Finding Extension"
-        },
-        {
-            "name": "Yoodli AI",
-            "url": "https://app.yoodli.ai/",
-            "description": "Enhance your online meeting job interviews with private, real-time speech coaching"
-        },
-        {
-            "name": "ApplicantAI",
-            "url": "https://applicantai.com",
-            "description": "Use AI to screen thousands of applicants in seconds"
-        }
-    ],
-    "categories": [
-        {
-            "name": "global",
-            "description": "Remote jobs from all over the world"
-        },
-        {
-            "name": "agency",
-            "description": "Agencies that hire remote workers"
-        },
-        {
-            "name": "brazilian",
-            "description": "Brazilian job boards"
-        },
-        {
-            "name": "bounties",
-            "description": "Bounty job boards"
-        }
-    ],
-    "other_lists": [
-        {
-            "name": "Awesome Remote Job",
-            "url": "https://www.github.com/lukasz-madon/awesome-remote-job",
-            "description": "A curated list of awesome remote working resources"
-        },
-        {
-            "name": "Remote-friendly Companies",
-            "url": "https://www.github.com/jessicard/remote-jobs",
-            "description": "A list of semi to fully remote-friendly companies in or around tech"
-        }
-    ]
+  "boards": [
+    {
+      "name": "HNHiring",
+      "url": "http://hnhiring.me/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Wellfound",
+      "url": "https://wellfound.com/jobs",
+      "short_description": "Job board focused on startups of all sizes",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "JobMote",
+      "url": "https://beta.jobmote.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Himalayas",
+      "url": "https://himalayas.app",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Remotive",
+      "url": "https://remotive.com",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Workable",
+      "url": "https://jobs.workable.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "WeWorkRemotely",
+      "url": "https://weworkremotely.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "WorkingNotWorking",
+      "url": "https://workingnotworking.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "AuthenticJobs",
+      "url": "https://www.authenticjobs.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "ClojureJobBoard",
+      "url": "https://www.clojurejobboard.com",
+      "short_description": "Clojure jobs, also got a remote section",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "FlexJobs",
+      "url": "https://www.flexjobs.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "GolangProjects",
+      "url": "https://www.golangprojects.com/golang-remote-jobs.html",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Honeypot",
+      "url": "https://www.honeypot.io/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "iOSDevJobs",
+      "url": "https://www.iosdevjobs.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "JobHunt.AI",
+      "url": "https://www.jobhunt.ai/",
+      "short_description": "AI/ML jobs",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Jobspresso",
+      "url": "https://www.jobspresso.co/remote-work/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "JrDevJobs",
+      "url": "https://www.jrdevjobs.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "LandingJobs",
+      "url": "https://www.landing.jobs/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "NoDesk",
+      "url": "https://www.nodesk.co/remote-work",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Strider",
+      "url": "https://www.onstrider.com/job-seekers",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Remote.co",
+      "url": "https://www.remote.co",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "RemoteOK",
+      "url": "https://www.remoteok.io/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Upwork",
+      "url": "https://www.upwork.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Workana",
+      "url": "https://www.workana.com/",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "WorkingNomads",
+      "url": "https://www.workingnomads.co/jobs",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Hipsters.jobs",
+      "url": "https://hipsters.jobs/",
+      "short_description": "Filter by 'remoto'",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "99Freelas",
+      "url": "https://www.99freelas.com.br/",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "99Jobs",
+      "url": "https://www.99jobs.com/",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "DevMedia Jobs",
+      "url": "https://www.devmedia.com.br/jobs",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "Impulso",
+      "url": "https://www.impulso.work/",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "InfoJobs",
+      "url": "https://www.infojobs.com.br/",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "Revelo",
+      "url": "https://www.revelo.com.br/",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "Trampos",
+      "url": "https://www.trampos.co/",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "Vibbra",
+      "url": "https://www.vibbra.com.br/",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "Workana Brazil",
+      "url": "https://www.workana.com/?locale=pt_br",
+      "categories": [
+        "brazilian"
+      ]
+    },
+    {
+      "name": "BairesDev",
+      "url": "https://www.bairesdev.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "FivePackCreative",
+      "url": "https://www.fivepackcreative.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "Gun.io",
+      "url": "https://www.gun.io/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "HappyFunCorp",
+      "url": "https://www.happyfuncorp.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "Maark",
+      "url": "https://www.maark.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "Metova",
+      "url": "https://www.metova.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "Mobomo",
+      "url": "https://www.mobomo.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "Ramotion",
+      "url": "https://www.ramotion.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "Soshace",
+      "url": "https://www.soshace.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "TanookiLabs",
+      "url": "https://www.tanookilabs.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "Teamed.io",
+      "url": "https://www.teamed.io/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "Toptal",
+      "url": "https://www.toptal.com/",
+      "categories": [
+        "agency"
+      ]
+    },
+    {
+      "name": "BountySource",
+      "url": "https://www.bountysource.com/",
+      "categories": [
+        "bounties"
+      ]
+    },
+    {
+      "name": "Remote Woman",
+      "url": "https://remotewoman.com",
+      "short_description": "Women have the opportunity to work from home",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "JustRemote",
+      "url": "https://justremote.co/remote-jobs",
+      "short_description": "Fully and partially remote",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "PowerToFly",
+      "url": "https://powertofly.com/",
+      "short_description": "Land a job at a company committed to diversity & inclusion",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "AI Jobs",
+      "url": "https://theaijobboard.com/",
+      "short_description": "Top 1% of AI companies",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "remote4me",
+      "url": "https://remote4me.com/",
+      "short_description": "An aggregator for remote jobs in tech and non-tech",
+      "categories": [
+        "global"
+      ]
+    },
+    {
+      "name": "Web3 Jobs",
+      "url": "https://web3.career/remote-jobs",
+      "short_description": "Remote Web3 Jobs",
+      "categories": [
+        "global"
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "name": "AutoApply.Jobs",
+      "url": "https://autoapply.jobs/",
+      "description": "Auto-apply to jobs without any human effort"
+    },
+    {
+      "name": "FinalScout",
+      "url": "https://finalscout.com/",
+      "description": "Transform your LinkedIn connections into email lists with this ChatGPT-Powered Email Finding Extension"
+    },
+    {
+      "name": "Yoodli AI",
+      "url": "https://app.yoodli.ai/",
+      "description": "Enhance your online meeting job interviews with private, real-time speech coaching"
+    },
+    {
+      "name": "ApplicantAI",
+      "url": "https://applicantai.com",
+      "description": "Use AI to screen thousands of applicants in seconds"
+    }
+  ],
+  "categories": [
+    {
+      "name": "global",
+      "description": "Remote jobs from all over the world"
+    },
+    {
+      "name": "agency",
+      "description": "Agencies that hire remote workers"
+    },
+    {
+      "name": "brazilian",
+      "description": "Brazilian job boards"
+    },
+    {
+      "name": "bounties",
+      "description": "Bounty job boards"
+    }
+  ],
+  "other_lists": [
+    {
+      "name": "Awesome Remote Job",
+      "url": "https://www.github.com/lukasz-madon/awesome-remote-job",
+      "description": "A curated list of awesome remote working resources"
+    },
+    {
+      "name": "Remote-friendly Companies",
+      "url": "https://www.github.com/jessicard/remote-jobs",
+      "description": "A list of semi to fully remote-friendly companies in or around tech"
+    }
+  ]
 }
