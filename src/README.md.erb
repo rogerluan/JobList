@@ -11,7 +11,7 @@ This list is mostly curated for tech jobs.
 <%= category['description'] %>
 
 <% boards.select { |board| board['categories'].include?(category['name']) }.each do |board| -%>
-1. [<%= board['url'] %>](<%= board['url_with_ref'] %>)<%= " - #{board['short_description']}" if board['short_description'] %>
+1. <%= board['name'] %>: [<%= board['url'] %>](<%= board['url_with_ref'] %>)<%= " - #{board['short_description']}" if board['short_description'] %>
 <% end -%>
 <% end -%>
 
