@@ -432,6 +432,11 @@
       "name": "Remote-friendly Companies",
       "url": "https://www.github.com/jessicard/remote-jobs",
       "description": "A list of semi to fully remote-friendly companies in or around tech"
+    },
+    {
+      "name": "Hiring Without Whiteboards",
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "description": "A list of companies that don't do whiteboard interviews"
     }
   ]
 }
