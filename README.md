@@ -88,6 +88,7 @@ Bounty job boards
 ### Other Lists
 
 - [Awesome Remote Job](https://www.github.com/lukasz-madon/awesome-remote-job?ref=rogeroba) - A curated list of awesome remote working resources
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards?ref=rogeroba) - A list of companies that don't do whiteboard interviews
 - [Remote-friendly Companies](https://www.github.com/jessicard/remote-jobs?ref=rogeroba) - A list of semi to fully remote-friendly companies in or around tech
 
 ## How to Contribute
