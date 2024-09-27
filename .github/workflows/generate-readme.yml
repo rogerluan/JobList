@@ -2,6 +2,8 @@ name: Generate README
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'data_sources.json'
 
