@@ -24,13 +24,6 @@
       ]
     },
     {
-      "name": "Himalayas",
-      "url": "https://himalayas.app",
-      "categories": [
-        "global"
-      ]
-    },
-    {
       "name": "Remotive",
       "url": "https://remotive.com",
       "categories": [
@@ -314,13 +307,6 @@
     {
       "name": "Teamed.io",
       "url": "https://www.teamed.io/",
-      "categories": [
-        "agency"
-      ]
-    },
-    {
-      "name": "Toptal",
-      "url": "https://www.toptal.com/",
       "categories": [
         "agency"
       ]
