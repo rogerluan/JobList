@@ -17,13 +17,6 @@
       ]
     },
     {
-      "name": "JobMote",
-      "url": "https://beta.jobmote.com/",
-      "categories": [
-        "global"
-      ]
-    },
-    {
       "name": "Himalayas",
       "url": "https://himalayas.app",
       "skip_url_check": true,
