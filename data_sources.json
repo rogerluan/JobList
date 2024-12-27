@@ -321,6 +321,7 @@
     {
       "name": "Toptal",
       "url": "https://www.toptal.com/",
+      "skip_url_check": true,
       "categories": [
         "agency"
       ]
