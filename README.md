@@ -19,7 +19,6 @@ Remote jobs from all over the world
 1. HNHiring: [http://hnhiring.me/](http://hnhiring.me/?ref=rogeroba)
 1. Honeypot: [https://www.honeypot.io/](https://www.honeypot.io/?ref=rogeroba)
 1. iOSDevJobs: [https://www.iosdevjobs.com/](https://www.iosdevjobs.com/?ref=rogeroba)
-1. JobMote: [https://beta.jobmote.com/](https://beta.jobmote.com/?ref=rogeroba)
 1. Jobspresso: [https://www.jobspresso.co/remote-work/](https://www.jobspresso.co/remote-work/?ref=rogeroba)
 1. JrDevJobs: [https://www.jrdevjobs.com/](https://www.jrdevjobs.com/?ref=rogeroba)
 1. JustRemote: [https://justremote.co/remote-jobs](https://justremote.co/remote-jobs?ref=rogeroba) - Fully and partially remote
