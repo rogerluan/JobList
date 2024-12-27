@@ -90,7 +90,7 @@ if updated_sources == data_sources
   puts "✅ No broken URLs found."
   exit(0)  # Exit with zero status to indicate no changes were made
 else
-  File.write("data_sources.json", JSON.pretty_generate(updated_sources))
+  File.write("data_sources.json", JSON.pretty_generate(updated_sources) + "\n")
   puts "❌ Broken URLs removed and data_sources.json updated."
   exit(1)  # Exit with non-zero status to indicate changes were made
 end
