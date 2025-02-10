@@ -229,13 +229,6 @@
       ]
     },
     {
-      "name": "Vibbra",
-      "url": "https://www.vibbra.com.br/",
-      "categories": [
-        "brazilian"
-      ]
-    },
-    {
       "name": "Workana Brazil",
       "url": "https://www.workana.com/?locale=pt_br",
       "categories": [
@@ -378,11 +371,6 @@
     }
   ],
   "tools": [
-    {
-      "name": "AutoApply.Jobs",
-      "url": "https://autoapply.jobs/",
-      "description": "Auto-apply to jobs without any human effort"
-    },
     {
       "name": "FinalScout",
       "url": "https://finalscout.com/",
