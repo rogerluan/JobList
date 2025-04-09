@@ -10,7 +10,6 @@ This list is mostly curated for tech jobs.
 
 Remote jobs from all over the world
 
-1. AI Jobs: [https://theaijobboard.com/](https://theaijobboard.com/?ref=rogeroba) - Top 1% of AI companies
 1. AuthenticJobs: [https://www.authenticjobs.com/](https://www.authenticjobs.com/?ref=rogeroba)
 1. ClojureJobBoard: [https://www.clojurejobboard.com](https://www.clojurejobboard.com?ref=rogeroba) - Clojure jobs, also got a remote section
 1. FlexJobs: [https://www.flexjobs.com/](https://www.flexjobs.com/?ref=rogeroba)
@@ -62,7 +61,6 @@ Brazilian job boards
 
 1. 99Freelas: [https://www.99freelas.com.br/](https://www.99freelas.com.br/?ref=rogeroba)
 1. 99Jobs: [https://www.99jobs.com/](https://www.99jobs.com/?ref=rogeroba)
-1. DevMedia Jobs: [https://www.devmedia.com.br/jobs](https://www.devmedia.com.br/jobs?ref=rogeroba)
 1. Hipsters.jobs: [https://hipsters.jobs/](https://hipsters.jobs/?ref=rogeroba) - Filter by 'remoto'
 1. Impulso: [https://www.impulso.work/](https://www.impulso.work/?ref=rogeroba)
 1. InfoJobs: [https://www.infojobs.com.br/](https://www.infojobs.com.br/?ref=rogeroba)
