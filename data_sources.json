@@ -98,13 +98,6 @@
       ]
     },
     {
-      "name": "Jobspresso",
-      "url": "https://www.jobspresso.co/remote-work/",
-      "categories": [
-        "global"
-      ]
-    },
-    {
       "name": "JrDevJobs",
       "url": "https://www.jrdevjobs.com/",
       "categories": [
@@ -129,20 +122,6 @@
     {
       "name": "Strider",
       "url": "https://www.onstrider.com/job-seekers",
-      "categories": [
-        "global"
-      ]
-    },
-    {
-      "name": "Remote.co",
-      "url": "https://remote.co",
-      "categories": [
-        "global"
-      ]
-    },
-    {
-      "name": "RemoteOK",
-      "url": "https://www.remoteok.io/",
       "categories": [
         "global"
       ]
@@ -187,13 +166,6 @@
     {
       "name": "99Jobs",
       "url": "https://www.99jobs.com/",
-      "categories": [
-        "brazilian"
-      ]
-    },
-    {
-      "name": "DevMedia Jobs",
-      "url": "https://www.devmedia.com.br/jobs",
       "categories": [
         "brazilian"
       ]
@@ -352,14 +324,6 @@
       ]
     },
     {
-      "name": "AI Jobs",
-      "url": "https://theaijobboard.com/",
-      "short_description": "Top 1% of AI companies",
-      "categories": [
-        "global"
-      ]
-    },
-    {
       "name": "remote4me",
       "url": "https://remote4me.com/",
       "short_description": "An aggregator for remote jobs in tech and non-tech",
@@ -378,11 +342,6 @@
     }
   ],
   "tools": [
-    {
-      "name": "AutoApply.Jobs",
-      "url": "https://autoapply.jobs/",
-      "description": "Auto-apply to jobs without any human effort"
-    },
     {
       "name": "FinalScout",
       "url": "https://finalscout.com/",
