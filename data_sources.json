@@ -100,6 +100,7 @@
     {
       "name": "Jobspresso",
       "url": "https://www.jobspresso.co/remote-work/",
+      "skip_url_check": true,
       "categories": [
         "global"
       ]
@@ -136,6 +137,7 @@
     {
       "name": "Remote.co",
       "url": "https://remote.co",
+      "skip_url_check": true,
       "categories": [
         "global"
       ]
@@ -143,6 +145,7 @@
     {
       "name": "RemoteOK",
       "url": "https://www.remoteok.io/",
+      "skip_url_check": true,
       "categories": [
         "global"
       ]
@@ -187,13 +190,6 @@
     {
       "name": "99Jobs",
       "url": "https://www.99jobs.com/",
-      "categories": [
-        "brazilian"
-      ]
-    },
-    {
-      "name": "DevMedia Jobs",
-      "url": "https://www.devmedia.com.br/jobs",
       "categories": [
         "brazilian"
       ]
@@ -352,14 +348,6 @@
       ]
     },
     {
-      "name": "AI Jobs",
-      "url": "https://theaijobboard.com/",
-      "short_description": "Top 1% of AI companies",
-      "categories": [
-        "global"
-      ]
-    },
-    {
       "name": "remote4me",
       "url": "https://remote4me.com/",
       "short_description": "An aggregator for remote jobs in tech and non-tech",
@@ -381,6 +369,7 @@
     {
       "name": "AutoApply.Jobs",
       "url": "https://autoapply.jobs/",
+      "skip_url_check": true,
       "description": "Auto-apply to jobs without any human effort"
     },
     {
