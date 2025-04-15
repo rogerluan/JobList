@@ -39,13 +39,6 @@
       ]
     },
     {
-      "name": "WeWorkRemotely",
-      "url": "https://weworkremotely.com/",
-      "categories": [
-        "global"
-      ]
-    },
-    {
       "name": "WorkingNotWorking",
       "url": "https://workingnotworking.com/",
       "skip_url_check": true,
