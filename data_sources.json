@@ -25,22 +25,8 @@
       ]
     },
     {
-      "name": "Remotive",
-      "url": "https://remotive.com",
-      "categories": [
-        "global"
-      ]
-    },
-    {
       "name": "Workable",
       "url": "https://jobs.workable.com/",
-      "categories": [
-        "global"
-      ]
-    },
-    {
-      "name": "WeWorkRemotely",
-      "url": "https://weworkremotely.com/",
       "categories": [
         "global"
       ]
