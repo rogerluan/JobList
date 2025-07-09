@@ -27,6 +27,7 @@
     {
       "name": "Remotive",
       "url": "https://remotive.com",
+      "skip_url_check": true,
       "categories": [
         "global"
       ]
@@ -41,6 +42,7 @@
     {
       "name": "WeWorkRemotely",
       "url": "https://weworkremotely.com/",
+      "skip_url_check": true,
       "categories": [
         "global"
       ]
