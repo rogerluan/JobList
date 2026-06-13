@@ -13,6 +13,7 @@ Remote jobs from all over the world
 1. AuthenticJobs: [https://www.authenticjobs.com/](https://www.authenticjobs.com/?ref=rogeroba)
 1. ClojureJobBoard: [https://www.clojurejobboard.com](https://www.clojurejobboard.com?ref=rogeroba) - Clojure jobs, also got a remote section
 1. FlexJobs: [https://www.flexjobs.com/](https://www.flexjobs.com/?ref=rogeroba)
+1. FoundRole: [https://www.foundrole.com/](https://www.foundrole.com/) - AI job search with built-in tracker
 1. GolangProjects: [https://www.golangprojects.com/golang-remote-jobs.html](https://www.golangprojects.com/golang-remote-jobs.html?ref=rogeroba)
 1. Himalayas: [https://himalayas.app](https://himalayas.app?ref=rogeroba)
 1. HNHiring: [http://hnhiring.me/](http://hnhiring.me/?ref=rogeroba)
