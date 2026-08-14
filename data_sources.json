@@ -365,6 +365,14 @@
       "categories": [
         "global"
       ]
+    },
+    {
+      "name": "Jobs in JavaScript",
+      "url": "https://jobsinjs.com/remote-javascript-jobs/",
+      "short_description": "Remote JavaScript, TypeScript and Node.js roles, updated daily",
+      "categories": [
+        "global"
+      ]
     }
   ],
   "tools": [
