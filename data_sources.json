@@ -86,13 +86,6 @@
       ]
     },
     {
-      "name": "Honeypot",
-      "url": "https://www.honeypot.io/",
-      "categories": [
-        "global"
-      ]
-    },
-    {
       "name": "iOSDevJobs",
       "url": "https://www.iosdevjobs.com/",
       "categories": [
@@ -103,13 +96,6 @@
       "name": "Jobspresso",
       "url": "https://www.jobspresso.co/remote-work/",
       "skip_url_check": true,
-      "categories": [
-        "global"
-      ]
-    },
-    {
-      "name": "JrDevJobs",
-      "url": "https://www.jrdevjobs.com/",
       "categories": [
         "global"
       ]
@@ -161,25 +147,10 @@
       ]
     },
     {
-      "name": "Workana",
-      "url": "https://www.workana.com/",
-      "categories": [
-        "global"
-      ]
-    },
-    {
       "name": "WorkingNomads",
       "url": "https://www.workingnomads.co/jobs",
       "categories": [
         "global"
-      ]
-    },
-    {
-      "name": "Hipsters.jobs",
-      "url": "https://hipsters.jobs/",
-      "short_description": "Filter by 'remoto'",
-      "categories": [
-        "brazilian"
       ]
     },
     {
@@ -229,13 +200,6 @@
     {
       "name": "Vibbra",
       "url": "https://www.vibbra.com.br/",
-      "categories": [
-        "brazilian"
-      ]
-    },
-    {
-      "name": "Workana Brazil",
-      "url": "https://www.workana.com/?locale=pt_br",
       "categories": [
         "brazilian"
       ]
@@ -316,13 +280,6 @@
       "skip_url_check": true,
       "categories": [
         "agency"
-      ]
-    },
-    {
-      "name": "BountySource",
-      "url": "https://www.bountysource.com/",
-      "categories": [
-        "bounties"
       ]
     },
     {
