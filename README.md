@@ -29,6 +29,7 @@ Remote jobs from all over the world
 1. remote4me: [https://remote4me.com/](https://remote4me.com/?ref=rogeroba) - An aggregator for remote jobs in tech and non-tech
 1. RemoteOK: [https://www.remoteok.io/](https://www.remoteok.io/?ref=rogeroba)
 1. Remotive: [https://remotive.com](https://remotive.com?ref=rogeroba)
+1. RobotTraining.jobs: [https://robottraining.jobs/remote-robot-training-jobs](https://robottraining.jobs/remote-robot-training-jobs?ref=rogeroba) - Remote robot-training jobs (teleoperation, at-home video capture for AI training) with posted pay
 1. Strider: [https://www.onstrider.com/job-seekers](https://www.onstrider.com/job-seekers?ref=rogeroba)
 1. Upwork: [https://www.upwork.com/](https://www.upwork.com/?ref=rogeroba)
 1. Web3 Jobs: [https://web3.career/remote-jobs](https://web3.career/remote-jobs?ref=rogeroba) - Remote Web3 Jobs
