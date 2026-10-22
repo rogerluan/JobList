@@ -38,6 +38,8 @@ Remote jobs from all over the world
 1. Workana: [https://www.workana.com/](https://www.workana.com/?ref=rogeroba)
 1. WorkingNomads: [https://www.workingnomads.co/jobs](https://www.workingnomads.co/jobs?ref=rogeroba)
 1. WorkingNotWorking: [https://workingnotworking.com/](https://workingnotworking.com/?ref=rogeroba)
+1. RemoteWorkUSA:[https://www.remoteworkusa.com/](https://www.remoteworkusa.com/?ref=rogeroba) Remote jobs for US residents
+
 
 ### Agency
 
