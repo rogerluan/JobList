@@ -27,6 +27,7 @@ Remote jobs from all over the world
 1. Remote Woman: [https://remotewoman.com](https://remotewoman.com?ref=rogeroba) - Women have the opportunity to work from home
 1. Remote.co: [https://remote.co](https://remote.co?ref=rogeroba)
 1. remote4me: [https://remote4me.com/](https://remote4me.com/?ref=rogeroba) - An aggregator for remote jobs in tech and non-tech
+1. Remotejobify: [https://remotejobify.app](https://remotejobify.app?ref=rogeroba) - Remote jobs from companies' own job boards, sorted by the country you live in, each with the line that proves you can apply
 1. RemoteOK: [https://www.remoteok.io/](https://www.remoteok.io/?ref=rogeroba)
 1. Remotive: [https://remotive.com](https://remotive.com?ref=rogeroba)
 1. Strider: [https://www.onstrider.com/job-seekers](https://www.onstrider.com/job-seekers?ref=rogeroba)

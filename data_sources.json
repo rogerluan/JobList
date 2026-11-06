@@ -365,6 +365,14 @@
       "categories": [
         "global"
       ]
+    },
+    {
+      "name": "Remotejobify",
+      "url": "https://remotejobify.app",
+      "short_description": "Remote jobs from companies' own job boards, sorted by the country you live in, each with the line that proves you can apply",
+      "categories": [
+        "global"
+      ]
     }
   ],
   "tools": [
