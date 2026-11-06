@@ -388,6 +388,11 @@
       "name": "ApplicantAI",
       "url": "https://applicantai.com",
       "description": "Use AI to screen thousands of applicants in seconds"
+    },
+    {
+      "name": "AIHawk",
+      "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
+      "description": "Open-source AI job application bot that finds the jobs matching your resume and fills the company's own application form, after you pick"
     }
   ],
   "categories": [
