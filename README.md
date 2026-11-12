@@ -14,6 +14,7 @@ Remote jobs from all over the world
 1. ClojureJobBoard: [https://www.clojurejobboard.com](https://www.clojurejobboard.com?ref=rogeroba) - Clojure jobs, also got a remote section
 1. FlexJobs: [https://www.flexjobs.com/](https://www.flexjobs.com/?ref=rogeroba)
 1. GolangProjects: [https://www.golangprojects.com/golang-remote-jobs.html](https://www.golangprojects.com/golang-remote-jobs.html?ref=rogeroba)
+1. HeyRole: [https://heyrole.ai/](https://heyrole.ai/) - Remote jobs with location and role filters, an AI job-search assistant, and original posting links
 1. Himalayas: [https://himalayas.app](https://himalayas.app?ref=rogeroba)
 1. HNHiring: [http://hnhiring.me/](http://hnhiring.me/?ref=rogeroba)
 1. Honeypot: [https://www.honeypot.io/](https://www.honeypot.io/?ref=rogeroba)
