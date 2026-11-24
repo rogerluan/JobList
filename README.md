@@ -81,6 +81,10 @@ Bounty job boards
 - [https://autoapply.jobs/](https://autoapply.jobs/?ref=rogeroba) - Auto-apply to jobs without any human effort
 - [https://finalscout.com/](https://finalscout.com/?ref=rogeroba) - Transform your LinkedIn connections into email lists with this ChatGPT-Powered Email Finding Extension
 - [https://app.yoodli.ai/](https://app.yoodli.ai/?ref=rogeroba) - Enhance your online meeting job interviews with private, real-time speech coaching
+- [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 ### Other Lists
 
