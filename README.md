@@ -24,6 +24,7 @@ Remote jobs from all over the world
 1. LandingJobs: [https://landing.jobs/](https://landing.jobs/?ref=rogeroba)
 1. NoDesk: [https://nodesk.co/remote-work/](https://nodesk.co/remote-work/?ref=rogeroba)
 1. PowerToFly: [https://powertofly.com/](https://powertofly.com/?ref=rogeroba) - Land a job at a company committed to diversity & inclusion
+1. Remote Roles: [https://remoteroles.so](https://remoteroles.so?ref=rogeroba) - Remote-only jobs in every field, with pay shown up front
 1. Remote Woman: [https://remotewoman.com](https://remotewoman.com?ref=rogeroba) - Women have the opportunity to work from home
 1. Remote.co: [https://remote.co](https://remote.co?ref=rogeroba)
 1. remote4me: [https://remote4me.com/](https://remote4me.com/?ref=rogeroba) - An aggregator for remote jobs in tech and non-tech
