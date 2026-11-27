@@ -365,6 +365,14 @@
       "categories": [
         "global"
       ]
+    },
+    {
+      "name": "Remote Roles",
+      "url": "https://remoteroles.so",
+      "short_description": "Remote-only jobs in every field, with pay shown up front",
+      "categories": [
+        "global"
+      ]
     }
   ],
   "tools": [
